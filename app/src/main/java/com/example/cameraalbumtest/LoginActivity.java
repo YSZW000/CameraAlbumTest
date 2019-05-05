@@ -24,7 +24,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
         register=findViewById(R.id.register);
         login=findViewById(R.id.login);
-
+//测试
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
